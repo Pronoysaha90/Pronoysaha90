@@ -8,14 +8,6 @@
 
 ---
 
-### 🚀 Professional Summary
-
-**Results-driven Web Developer** with a solid Computer Engineering foundation, specializing in creating **responsive, SEO-optimized websites** using modern technologies. Currently delivering high-performance solutions at **FB International BD**.
-
-</div>
-
----
-
 ## 💼 Experience
 
 <table>
@@ -23,7 +15,7 @@
 <td width="30%">
 <strong>🏢 FB International BD</strong><br>
 <em>Web Developer</em><br>
-📅 Dec 2024 - Present
+📅 Dec 2024 - Sep 2025
 </td>
 <td width="70%">
 • Designed and developed responsive websites using HTML, CSS, JavaScript, and Tailwind CSS<br>
@@ -148,19 +140,3 @@ Problem Solver
 
 ---
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-pronoysaha723@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pronoysaha723@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Pronoy%20Saha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pronoysaha90/)
-[![GitHub](https://img.shields.io/badge/-Pronoysaha90-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pronoysaha90)
-
-📍 <strong>Location:</strong> Mohakhali, Dhaka, Bangladesh  
-📱 <strong>Phone:</strong> +880 1745547460
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning+%7C+Always+growing)](https://git.io/typing-svg)
-
-</div>
