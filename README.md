@@ -15,7 +15,7 @@
 <td width="30%">
 <strong>🏢 FB International BD</strong><br>
 <em>Web Developer</em><br>
-📅 Dec 2024 - Sep 2025
+📅 Dec 2024 
 </td>
 <td width="70%">
 • Designed and developed responsive websites using HTML, CSS, JavaScript, and Tailwind CSS<br>
