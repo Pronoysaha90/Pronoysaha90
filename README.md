@@ -11,9 +11,11 @@
 <br/>
 <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-0f172a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" alt="Open to work" />
-<img src="https://komarev.com/ghpvc/?username=Pronoysaha90&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" alt="Profile views" />
-
 </div>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Pronoysaha90&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" alt="Profile views" />
+</p>
 
 ## 👋 About
 
@@ -35,7 +37,7 @@ My standout project is an **ISP billing and management system** ([rdnisp.com](ht
 - API integration, performance, and polished user experience
 
 <details>
-<summary><b>More skills &amp; experience</b> — CMS, data, tools, and additional languages</summary>
+<summary><img src="assets/more-skills-glow.svg" alt="More skills and experience — CMS, data, tools, and additional languages" height="24" /></summary>
 
 <br/>
 
