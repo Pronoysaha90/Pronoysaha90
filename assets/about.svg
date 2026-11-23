@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="title description">
+  <title id="title">About Pronoy Saha</title>
+  <desc id="description">Front-end developer building responsive web experiences with React, TypeScript, and Tailwind CSS.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081226"/>
+      <stop offset="0.55" stop-color="#101c3a"/>
+      <stop offset="1" stop-color="#1b1740"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".08"/>
+    </pattern>
+    <style>
+      .pulse{animation:pulse 5s ease-in-out infinite}
+      .drift{animation:drift 6s ease-in-out infinite}
+      .scan{animation:scan 7s linear infinite}
+      @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+      @keyframes drift{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+      @keyframes scan{0%{transform:translateY(-90px);opacity:0}15%,85%{opacity:.65}100%{transform:translateY(100px);opacity:0}}
+      @media (prefers-reduced-motion:reduce){.pulse,.drift,.scan{animation:none}}
+    </style>
+  </defs>
+  <rect width="1000" height="300" rx="18" fill="url(#background)"/>
+  <rect width="1000" height="300" rx="18" fill="url(#grid)"/>
+  <circle cx="850" cy="135" r="220" fill="url(#glow)" class="pulse"/>
+  <path d="M0 250C165 210 198 308 372 264s246-63 390-15 162 25 238 8v43H0z" fill="#0b1530" opacity=".8"/>
+  <g fill="none" stroke="url(#accent)" stroke-opacity=".28" stroke-width="1.5">
+    <path d="M640 65h80l30 30h104"/>
+    <path d="M675 124h92l24-24h116"/>
+    <path d="M658 184h70l35-35h145"/>
+    <path d="M728 65v59m39 0v60"/>
+  </g>
+  <g fill="#93c5fd" class="pulse">
+    <circle cx="640" cy="65" r="3"/><circle cx="854" cy="95" r="3"/>
+    <circle cx="907" cy="100" r="3"/><circle cx="908" cy="149" r="3"/>
+    <circle cx="728" cy="184" r="3"/>
+  </g>
+  <g class="drift">
+    <rect x="688" y="58" width="255" height="156" rx="12" fill="#0b1120" stroke="#33466c"/>
+    <path d="M688 84h255" stroke="#33466c"/>
+    <circle cx="706" cy="71" r="3" fill="#fb7185"/><circle cx="718" cy="71" r="3" fill="#fbbf24"/><circle cx="730" cy="71" r="3" fill="#34d399"/>
+    <text x="708" y="111" fill="#94a3b8" font-family="Consolas,monospace" font-size="12">const developer = {</text>
+    <text x="722" y="135" fill="#c4b5fd" font-family="Consolas,monospace" font-size="12">build:</text>
+    <text x="766" y="135" fill="#86efac" font-family="Consolas,monospace" font-size="12">"useful things",</text>
+    <text x="722" y="159" fill="#c4b5fd" font-family="Consolas,monospace" font-size="12">stack:</text>
+    <text x="766" y="159" fill="#93c5fd" font-family="Consolas,monospace" font-size="12">["React", "TS"]</text>
+    <text x="708" y="183" fill="#94a3b8" font-family="Consolas,monospace" font-size="12">};</text>
+    <rect x="708" y="97" width="2" height="16" fill="#60a5fa" class="scan"/>
+  </g>
+  <text x="54" y="82" fill="#93c5fd" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">A LITTLE ABOUT ME</text>
+  <text x="52" y="132" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="750">I turn ideas into</text>
+  <text x="52" y="174" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="750">thoughtful web experiences.</text>
+  <text x="54" y="211" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="15">Front-end developer · Dhaka, Bangladesh</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">
+    <rect x="54" y="236" width="74" height="27" rx="13.5" fill="#1d4ed8" fill-opacity=".28" stroke="#60a5fa" stroke-opacity=".45"/>
+    <text x="91" y="254" fill="#bfdbfe" text-anchor="middle">REACT</text>
+    <rect x="138" y="236" width="105" height="27" rx="13.5" fill="#1d4ed8" fill-opacity=".28" stroke="#60a5fa" stroke-opacity=".45"/>
+    <text x="190" y="254" fill="#bfdbfe" text-anchor="middle">TYPESCRIPT</text>
+    <rect x="253" y="236" width="108" height="27" rx="13.5" fill="#6d28d9" fill-opacity=".24" stroke="#a78bfa" stroke-opacity=".45"/>
+    <text x="307" y="254" fill="#ddd6fe" text-anchor="middle">TAILWIND CSS</text>
+    <rect x="371" y="236" width="82" height="27" rx="13.5" fill="#6d28d9" fill-opacity=".24" stroke="#a78bfa" stroke-opacity=".45"/>
+    <text x="412" y="254" fill="#ddd6fe" text-anchor="middle">NEXT.JS</text>
+  </g>
+</svg>

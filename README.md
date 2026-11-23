@@ -15,21 +15,26 @@
 <br/>
 <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-0f172a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" alt="Open to work" />
+<img src="https://komarev.com/ghpvc/?username=Pronoysaha90&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" alt="Profile views" />
 
 </div>
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-Front-End Developer from Dhaka. I build responsive interfaces with **React, TypeScript and Tailwind CSS**, and I've shipped client work in **WordPress and Shopify**.
+<div align="center">
+<img src="assets/about.svg" alt="A little about Pronoy Saha: front-end developer building thoughtful web experiences with React, TypeScript, Tailwind CSS, and Next.js" width="100%" />
+</div>
 
-My biggest build is an **ISP billing and management system** ([rdnisp.com](https://rdnisp.com)) used by live ISPs, with bKash payments, role-based dashboards and automated MikroTik router control. My best repositories are pinned below.
+I'm a front-end developer from Dhaka, Bangladesh, focused on building fast, accessible, responsive interfaces with **React, TypeScript, Tailwind CSS, and Next.js**. I also deliver client projects with **WordPress and Shopify**.
+
+My biggest build is an **ISP billing and management system** ([rdnisp.com](https://rdnisp.com)) used by live ISPs, featuring bKash payments, role-based dashboards, and automated MikroTik router control. I previously worked as a Web Developer at **FB International BD** and am studying **CSE at Southeast University**. Explore my pinned repositories below.
 
 <table>
 <tr>
-<td>💼 <b>Experience</b><br/>Web Developer, FB International BD<br/><sub>Nov 2024 – Oct 2025</sub></td>
-<td>🎓 <b>Studying</b><br/>BSc in CSE, Southeast University<br/><sub>Expected Dec 2026</sub></td>
-<td>⚡ <b>Focus</b><br/>React · TypeScript · Next.js</td>
-<td>📫 <b>Looking for</b><br/>Front-end roles in a collaborative team</td>
+<td align="center">💼 <b>Experience</b><br/>Web Developer<br/><sub>FB International BD · Nov 2024–Oct 2025</sub></td>
+<td align="center">🎓 <b>Education</b><br/>BSc in CSE<br/><sub>Southeast University · Expected 2026</sub></td>
+<td align="center">⚡ <b>Building with</b><br/>React · TypeScript<br/><sub>Next.js · Tailwind CSS</sub></td>
+<td align="center">🤝 <b>Open to</b><br/>Front-end opportunities<br/><sub>Collaborative product teams</sub></td>
 </tr>
 </table>
 
