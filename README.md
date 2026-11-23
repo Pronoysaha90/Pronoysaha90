@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Pronoy Saha, Front-End Developer" width="100%" />
-
-<br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&height=36&lines=I+build+fast%2C+responsive+interfaces;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Shipped+a+billing+system+used+by+live+ISPs;Open+to+front-end+opportunities" alt="Typing intro" /></a>
+<img src="assets/frontend-hero.svg" alt="Pronoy Saha, Front-End Developer building responsive web experiences with React, TypeScript, Next.js, and Tailwind CSS" width="100%" />
 
 <br/><br/>
 
@@ -19,57 +15,43 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👋 About
+
+I'm a **Front-End Developer** from Dhaka, Bangladesh. I build responsive, accessible interfaces and product experiences with **React, TypeScript, Next.js, and Tailwind CSS**.
+
+My standout project is an **ISP billing and management system** ([rdnisp.com](https://rdnisp.com)) used by live ISPs, with bKash payments, role-based dashboards, and MikroTik automation. I previously worked as a Web Developer at **FB International BD** and am studying **CSE at Southeast University**. I'm open to front-end opportunities and collaborative product teams.
+
+## 💻 Front-End Toolkit
 
 <div align="center">
-<img src="assets/about.svg" alt="A little about Pronoy Saha: front-end developer building thoughtful web experiences with React, TypeScript, Tailwind CSS, and Next.js" width="100%" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,bootstrap&theme=dark" height="58" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, and Bootstrap" />
 </div>
 
-I'm a front-end developer from Dhaka, Bangladesh, focused on building fast, accessible, responsive interfaces with **React, TypeScript, Tailwind CSS, and Next.js**. I also deliver client projects with **WordPress and Shopify**.
+### What I focus on
 
-My biggest build is an **ISP billing and management system** ([rdnisp.com](https://rdnisp.com)) used by live ISPs, featuring bKash payments, role-based dashboards, and automated MikroTik router control. I previously worked as a Web Developer at **FB International BD** and am studying **CSE at Southeast University**. Explore my pinned repositories below.
+- Responsive, accessible interfaces and reusable UI
+- React and Next.js application development
+- Type-safe front-end development with TypeScript
+- API integration, performance, and polished user experience
 
-<table>
-<tr>
-<td align="center">💼 <b>Experience</b><br/>Web Developer<br/><sub>FB International BD · Nov 2024–Oct 2025</sub></td>
-<td align="center">🎓 <b>Education</b><br/>BSc in CSE<br/><sub>Southeast University · Expected 2026</sub></td>
-<td align="center">⚡ <b>Building with</b><br/>React · TypeScript<br/><sub>Next.js · Tailwind CSS</sub></td>
-<td align="center">🤝 <b>Open to</b><br/>Front-end opportunities<br/><sub>Collaborative product teams</sub></td>
-</tr>
-</table>
+<details>
+<summary><b>More skills &amp; experience</b> — CMS, data, tools, and additional languages</summary>
 
-## 🛠️ Tech Stack
+<br/>
+
+| Area | Technologies |
+|---|---|
+| **CMS & e-commerce** | WordPress, Shopify, WooCommerce, Elementor, Divi, WPBakery |
+| **Data & ORM** | PostgreSQL, MySQL, SQL, Drizzle ORM |
+| **Tools & design** | Git, GitHub, Vercel, VS Code, Android Studio, Photoshop, Illustrator |
+| **Additional languages** | Python, C, C++, Java |
+| **Product integrations** | REST APIs, bKash payments, role-based dashboards, MikroTik automation |
 
 <div align="center">
-
-<sub><b>LANGUAGES</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,py,cpp,c,java&theme=dark" height="62" alt="ts,js,html,css,py,cpp,c,java" /><br/><br/><br/>
-<sub><b>FRONT-END</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" height="62" alt="react,nextjs,tailwind,bootstrap" /><br/><br/><br/>
-<sub><b>DATABASE & ORM</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="62" alt="postgres,mysql" />
-<img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /><br/><br/><br/>
-<sub><b>CMS & E-COMMERCE</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" height="62" alt="wordpress" /><br/>
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-<img src="https://img.shields.io/badge/Divi-8300E9?style=for-the-badge" alt="Divi" />
-<img src="https://img.shields.io/badge/WPBakery-0073AA?style=for-the-badge" alt="WPBakery" /><br/><br/><br/>
-<sub><b>TOOLS & DESIGN</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,androidstudio,ps,ai&theme=dark" height="62" alt="git,github,vercel,vscode,androidstudio,ps,ai" /><br/><br/><br/>
-<sub><b>PRACTICES & INTEGRATIONS</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/Responsive%20Design-2563eb?style=flat-square" alt="Responsive Design" />
-<img src="https://img.shields.io/badge/REST%20API%20Integration-2563eb?style=flat-square" alt="REST API Integration" />
-<img src="https://img.shields.io/badge/Role--Based%20Dashboards-2563eb?style=flat-square" alt="Role-Based Dashboards" />
-<img src="https://img.shields.io/badge/SEO-2563eb?style=flat-square" alt="SEO" />
-<img src="https://img.shields.io/badge/Performance%20Optimization-2563eb?style=flat-square" alt="Performance Optimization" />
-<img src="https://img.shields.io/badge/Cross--Browser%20Testing-2563eb?style=flat-square" alt="Cross-Browser Testing" />
-<img src="https://img.shields.io/badge/bKash%20Payments-2563eb?style=flat-square" alt="bKash Payments" />
-<img src="https://img.shields.io/badge/MikroTik%20Automation-2563eb?style=flat-square" alt="MikroTik Automation" />
-
+<img src="https://skillicons.dev/icons?i=wordpress,postgres,mysql,git,github,vercel,vscode,androidstudio,ps,ai&theme=dark" height="40" alt="WordPress, PostgreSQL, MySQL, Git, GitHub, Vercel, VS Code, Android Studio, Photoshop, and Illustrator" />
 </div>
+
+</details>
 
 ## 📊 GitHub Stats
 
